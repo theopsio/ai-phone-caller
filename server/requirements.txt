@@ -1,0 +1,8 @@
+pipecat-ai[twilio,telnyx,deepgram,cartesia,google,openai,silero]>=0.0.60
+fastapi>=0.115.0
+uvicorn>=0.34.0
+python-dotenv>=1.0.0
+aiohttp>=3.11.0
+twilio>=9.0.0
+loguru>=0.7.0
+pydantic>=2.10.0
